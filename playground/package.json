@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "image-on-demand-service-playground",
+  "type": "module",
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "generate": "nuxi generate"
+  },
+  "devDependencies": {
+    "nuxt": "latest",
+    "@t3headless/nuxt-typo3": "^2.0.0-alpha.22"
+  }
+}
