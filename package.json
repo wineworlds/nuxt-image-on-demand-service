@@ -1,8 +1,8 @@
 {
-  "name": "@wineworlds/nuxt-image-on-demand-service",
+  "name": "@wineworlds/image-on-demand-service",
   "version": "1.0.1",
   "description": "My new Nuxt module",
-  "repository": "wineworlds/image-on-demand-service",
+  "repository": "wineworlds/nuxt-image-on-demand-service",
   "license": "MIT",
   "type": "module",
   "exports": {
