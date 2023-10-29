@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.0.1
+
+[compare changes](https://github.com/wineworlds/nuxt-image-on-demand-service/compare/v1.0.2...v1.0.1)
+
+### 🩹 Fixes
+
+- Wrong version ([2c262e3](https://github.com/wineworlds/nuxt-image-on-demand-service/commit/2c262e3))
+
+### ❤️ Contributors
+
+- Kubilay Melnikov <peksen.kubilay@gmail.com>
+
 ## v1.0.2
 
 [compare changes](https://github.com/wineworlds/nuxt-image-on-demand-service/compare/v1.0.1...v1.0.2)
